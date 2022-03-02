@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://github.com/iamherok/Cara_public"><img src="https://images6.alphacoders.com/102/thumb-1920-1024013.jpg" alt="chitoge" border="0"></a>
+<a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
+" alt="chitoge" border="0"></a>
 
 # **Yotsuba : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
