@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
 	run = async (M: ISimplifiedMessage): Promise<void> => {
 		const chitoge =
-			'./assets/rin/My Dress Up Darling Marin Kitagawa GIF - My Dress Up Darling Marin Kitagawa Sono Bisque Doll - Discover & Share GIFs.gif'
+			'https://telegra.ph/file/63e6a8402fa16c87752c5.mp4'
 		return void this.client.sendMessage(
 			M.from,
 			{ url: chitoge },
