@@ -44,7 +44,7 @@ export default class Command extends BaseCommand {
 
         const n = [
 
-            'https://www.linkpicture.com/q/1144157.jpg'
+            './assets/rin/tumblr_358c6e2e0cedcf71a5b229e298fa63c5_62fc53db_540.gif'
 
         ]
 
