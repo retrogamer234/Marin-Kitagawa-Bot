@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
         const n = [
-            './assets/Rin/rin.mp4','./assets/Rin/marin edit _ woman(720P_HD).mp4'
+            'https://telegra.ph/file/38a9538ae1f2387235caf.mp4'
         ]
         let well = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: well }, MessageType.video, {quoted:M.WAMessage,
