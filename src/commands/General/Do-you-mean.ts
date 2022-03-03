@@ -14,7 +14,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
         const n = [
-            'https://c.tenor.com/eAk1PR8Y-Y4AAAPo/the-quintessential-quintuplets-yotsuba.mp4'
+            './assets/rin/9394e9ff681756b4e700836d179c6ad64ac66e84.gifv.gif'
         ]
         let chitoge = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: chitoge }, MessageType.video, {
