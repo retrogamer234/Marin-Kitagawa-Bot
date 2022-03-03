@@ -3,7 +3,7 @@
 <a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
 " alt="chitoge" border="0"></a>
 
-# 💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
